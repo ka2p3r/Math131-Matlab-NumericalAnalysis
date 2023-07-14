@@ -1,0 +1,1 @@
+Write a Matlab function call myabsvalue that inputs a real number a and outputs the abs value of a. Use a if-statement to return the result - don't use Matlab's build in function 

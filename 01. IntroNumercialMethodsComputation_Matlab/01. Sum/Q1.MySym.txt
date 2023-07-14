@@ -1,0 +1,3 @@
+Write a Matlab function, called mysum that inputs the integer n and outputs the sum of the first n positive integers. If a negative n is input, make sure to output the value -1 and print the following statement to the user: 'cannot input a negative number'. Use a for loop to compute the sum - don’t use Matlab’s built in function. 
+			
+		
